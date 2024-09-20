@@ -1,7 +1,7 @@
 'use client'
 import React, { useState } from 'react';
-import { Card, CardHeader, CardContent, CardTitle } from '../components/ui/card';
-import { Tabs, TabsContent, TabsList, TabsTrigger } from '../components/ui/tabs';
+import { Card, CardHeader, CardContent, CardTitle } from '../../components/ui/card';
+import { Tabs, TabsContent, TabsList, TabsTrigger } from '../../components/ui/tabs';
 
 const roboticsData = {
   fundamentals: {
